@@ -4,8 +4,8 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(135deg, #6a11cb, #2575fc);
   font-family: Arial, sans-serif;
+   background-image: linear-gradient(135deg, #6a11cb, #2575fc);
 }
 
 .login-box {
