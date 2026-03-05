@@ -1,0 +1,15 @@
+# Ignore node_modules everywhere
+**/node_modules/
+
+# Ignore environment files
+**/.env
+
+# Ignore build/dist folders
+frontend/dist/
+frontend/build/
+
+# Ignore SQLite DB
+backend/users.db
+
+# Ignore logs
+*.log

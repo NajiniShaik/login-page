@@ -1,0 +1,11 @@
+# Ignore all node_modules in subfolders
+**/node_modules/
+
+# Ignore all .env files
+**/.env
+
+# Ignore database files
+**/*.db
+
+# Ignore build folders
+frontend/build/
