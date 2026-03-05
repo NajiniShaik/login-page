@@ -36,7 +36,7 @@ function Welcome() {
   return (
     <div className="welcome-container">
       <div className="welcome-box">
-        <h1>Welcome {username} 🎉</h1>
+        <h1>Welcome {username}</h1>
         <p>{message}</p>
         <button onClick={handleLogout}>Logout</button>
       </div>
